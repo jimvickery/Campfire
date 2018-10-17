@@ -1,2 +1,9 @@
 <h1>Chat Room</h1>
-<%=  render 'messages/message' %>
+<%=  render @messages %>
+<br>
+
+<form>
+  <label> Say somehting: </label><br>
+  <input type="text" data-behavior="room_speaker">
+  
+</form>
