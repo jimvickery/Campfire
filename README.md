@@ -1,25 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # Campfire
+
+A Ruby on Rails App with Chatting functions using Action Cable. 
+See more from this tutorial: https://www.youtube.com/watch?v=n0WUjGkDFS0
